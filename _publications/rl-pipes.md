@@ -23,7 +23,7 @@ cabling systems and provide a Q-learning based shortest path
 recommendation in order to help the maintenance team reach the
 leak node in a short amount of time.'
 date: 2021-09-24
-venue: 'Deep Learning DevCon 2021/Lattice - The Machine Learning Journal
+venue: 'Deep Learning DevCon 2021/Lattice - The Machine Learning Journal'
 paperurl: 'https://adasci.org/hyper-localization-of-leaks-in-piping-and-cabling-systems-using-reinforcement-learning/'
 citation: 'TBD'
 ---
