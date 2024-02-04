@@ -55,6 +55,6 @@ simpler.
 
 [Download Paper](../files/Skin_Lesion_Classification_using_Deep_Learning_and_Image_Processing.pdf)
 
-Recommended Citation: A. Jibhakate, P. Parnerkar, S. Mondal, V. Bharambe and S. Mantri, "Skin Lesion Classification using Deep Learning and Image Processing," 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), Thoothukudi, India, 2020, pp. 333-340, doi: 10.1109/ICISS49785.2020.9316092. ,
+,
 
 .
