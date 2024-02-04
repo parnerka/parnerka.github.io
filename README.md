@@ -1,1 +1,1 @@
-Pranav Parnerkar - Personal Website - [](https://parnerka.github.io/)
+Pranav Parnerkar - Personal Website - [Click!](https://parnerka.github.io/)
