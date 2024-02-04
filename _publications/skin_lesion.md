@@ -54,7 +54,3 @@ non-invasive skin cancer screening a common norm, making it
 simpler.
 
 [Download Paper](../files/Skin_Lesion_Classification_using_Deep_Learning_and_Image_Processing.pdf)
-
-,
-
-.
