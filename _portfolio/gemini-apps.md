@@ -1,6 +1,6 @@
 ---
 title: "Google Gemini - Starter Apps"
-excerpt: "Google Gemini, Streamlit, Langchain, FAISS, Chroma DB, Foundation Models, GenAI<br/><img src='/images/gemini.jpg'>"
+excerpt: "Google Gemini, Streamlit, Langchain, FAISS, Chroma DB, Foundation Models, GenAI <br> <img src='/images/gemini.jpg'>"
 collection: portfolio
 ---
 
